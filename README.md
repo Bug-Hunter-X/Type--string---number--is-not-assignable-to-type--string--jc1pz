@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript bug and its solution. The bug demonstrates a common type error in TypeScript where the compiler reports a type mismatch when passing an array to a function expecting a string. The solution demonstrates how to resolve this error by using type guards or type assertions to ensure the function receives a string.
